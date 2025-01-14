@@ -10,10 +10,8 @@
 * 设计时，zw正在看《毕加索传》。
 * 兜兜转转，历史和艺术，在这里形成了一个有趣的小小闭环。
 
-欢迎熟悉知识产权的网友提供协助.
-协助查处此事，正本清源.
-Welcome netizens familiar with intellectual property to provide assistance
-Assist in investigating and resolving this matter, and rectify the root cause
+* 欢迎熟悉知识产权的网友提供协助.协助查处此事，正本清源.
+* Welcome netizens familiar with intellectual property to provide assistance.Assist in investigating and resolving this matter, and rectify the root cause
 
 
 ## 附录
